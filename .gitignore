@@ -1,0 +1,8 @@
+*.debug
+*.html
+*.js
+*.json
+*.lnk
+*.log
+*.txt
+*.ts
